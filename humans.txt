@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Marc Vincent Brimon	mvrb011@gmail.com	@cosmicrider011
 
 # THANKS
 
